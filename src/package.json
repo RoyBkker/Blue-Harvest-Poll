@@ -1,0 +1,10 @@
+{
+    "name": "Blue-Harvest-Poll",
+    "version": "1.0.0",
+    "description": "Poll.",
+    "keywords": [],
+    "main": "index.js",
+    "dependencies": {
+      "vue": "2.5.3"
+    }
+  }
